@@ -7,7 +7,7 @@
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/seo-test-01",
+  "repository": "https://github.com/latte34844/seo-test-01",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
